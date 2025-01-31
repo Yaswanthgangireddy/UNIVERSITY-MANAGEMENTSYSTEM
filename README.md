@@ -1,0 +1,1 @@
+The University Management System is a software application designed to streamline and automate the management of various university operations. This project aims to provide an efficient and user-friendly platform for managing student records, course information, faculty details, and student enrollments. It is implemented using Python and SQLite for database management.
